@@ -1,3 +1,4 @@
+![Spettri di Emissione](spettro_emissione.png)
 import numpy as np
 # Forza l'uso del backend 'Agg' prima di importare pyplot per evitare errori su server headless
 import matplotlib
